@@ -1,0 +1,53 @@
+
+nav ul li a:hover,
+.pl-text > span,
+.btn-default2,
+.btn-default2:hover,
+.slick-next:hover,
+.slick-prev:hover,
+.counter-div > h2 sup,
+.mbl-menu li a:hover,
+.pager-sec ul li a:hover,
+.wk-text > span,
+.lang-slct li a:hover,
+.filters-nav li a.selected,
+.cz-controls > a:hover,
+.cz-controls > a:hover,
+.post-ct > a:hover,
+.st-btn:hover,
+.blog-single .blog-post.main  p span,
+.post-ct h2:hover,
+.reply,
+.reply:hover,
+.error-content > h4 a,
+.responsive-mobile-menu ul li a:hover,
+.rb-post-info h3:hover {
+	color: #DD4242;
+}
+
+
+.slick-next:hover:before,
+.slick-prev:hover:before,
+.lang-slct li:before,
+.filters-nav li a.selected:before,
+.cz-controls > a:hover:before,
+.cz-controls > a:hover:before,
+.post-ct > a:hover:before,
+.tags li a:hover,
+.cm-head > span:before,
+.response {
+	background-color: #DD4242;
+}
+
+
+.btn-default,
+.newsletter-form button:before,
+.newsletter-form button:after,
+.counter-cl,
+.widget-newslettter form input:focus,
+.form-group input[type="text"]:focus,
+.form-group textarea:focus,
+.error-content .widget-search form input:focus,
+.newsletter-form input:focus {
+	border-color: #DD4242;
+}
